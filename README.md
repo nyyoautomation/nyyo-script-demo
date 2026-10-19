@@ -17,6 +17,6 @@ Anything that is “one clear rule”:
 - pull an API into CSV
 - generate a weekly PDF/text report from a folder or Sheet
 
-from **$69**. Script + README + dry-run. Crypto only.
+Script + README + dry-run. Available on LaborX.
 
-Contact: [LaborX — Nyyo Automation](https://laborx.com/freelancers/users/id475124) · [GitHub](https://github.com/nyyoautomation)
+[Profile & packages](https://github.com/nyyoautomation) · Questions? Ask in your order chat.
