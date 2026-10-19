@@ -19,4 +19,4 @@ Anything that is “one clear rule”:
 
 **$30–80**, 24–48h. Script + README + dry-run. Crypto only.
 
-Contact: Reddit [u/NyyoAutomation](https://www.reddit.com/user/NyyoAutomation) · [GitHub](https://github.com/nyyoautomation)
+Contact: [LaborX — Nyyo Automation](https://laborx.com/freelancers/users/id475124) · [GitHub](https://github.com/nyyoautomation)
