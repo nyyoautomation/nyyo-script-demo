@@ -1,0 +1,8 @@
+Nyyo Automation — bulk rename report
+entries: 3
+----------------------------------------
+OK   INV_2025_1.pdf  →  2025-01-15_acme_inv-001.pdf
+OK   INV_2025_2.pdf  →  2025-01-22_beta_inv-002.pdf
+OK   scan_photo.JPG  →  2025-01-22_receipt_scan.jpg
+----------------------------------------
+dry-run first, then re-run without --dry-run to apply.
